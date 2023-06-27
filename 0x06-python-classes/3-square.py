@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """ Documentation for a square class"""
+
 class Square:
     """Represent a square class of quadrilateral with four equal sides
     Attributes:
